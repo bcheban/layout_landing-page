@@ -1,12 +1,12 @@
 @use '../utils/mixins';
 
 .header {
-  background-image: url(/images/header-bg-mobile.png);
+  background-image: url(../../../images/header-bg-mobile.png);
   background-size: cover;
   background-position: right;
 
   @include mixins.on-tablet {
-    background-image: url(/images/big_bike.png);
+    background-image: url(../../images/big_bike.png);
     background-position: top;
   }
 

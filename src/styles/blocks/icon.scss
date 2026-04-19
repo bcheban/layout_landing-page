@@ -27,7 +27,7 @@
   }
 
   &--phone {
-    background-image: url(/images/icon/icon-phone.svg);
+    background-image: url(../../images/icon/icon-phone.svg);
 
     @include mixins.on-desktop {
       &:hover {
@@ -39,14 +39,14 @@
   }
 
   &--menu {
-    background-image: url(/images/icon/icon-menu.svg);
+    background-image: url(../../images/icon/icon-menu.svg);
 
     &:hover {
-      background-image: url(/images/icon/icon-menu-hover.svg);
+      background-image: url(../../images/icon/icon-menu-hover.svg);
     }
   }
 
   &--close {
-    background-image: url(/images/icon/icon-close.svg);
+    background-image: url(../../images/icon/icon-close.svg);
   }
 }
