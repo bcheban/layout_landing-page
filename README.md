@@ -1,4 +1,4 @@
-# MyBike Landing Page
+# MyBike Landing Page 
 
 A responsive landing page implemented from the MYBIKE Figma design.
 
