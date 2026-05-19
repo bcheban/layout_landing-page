@@ -2,7 +2,7 @@
 
 A responsive landing page implemented from the MYBIKE Figma design.
 
-- [DEMO LINK](https://bcheban.github.io/layout_landing-page/)
+- [DEMO LINK](https://bcheban.github.io/mybike_landing-page/)
 - [MYBIKE design](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 
 # Technologies used
@@ -15,7 +15,7 @@ A responsive landing page implemented from the MYBIKE Figma design.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bcheban/layout_landing-page.git
+   git clone https://github.com/bcheban/mybike_landing-page.git
    cd layout_landing-page
    ```
 2. Install dependencies (Node.js `v20` recommended):
